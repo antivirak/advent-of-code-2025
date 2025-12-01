@@ -1,0 +1,28 @@
+use aoc_lib::*;
+//use aoc_lib::itertools::itertools::Itertools;
+
+pub mod advent_25_01;
+//pub mod advent_25_02;
+//pub mod advent_25_03;
+//pub mod advent_25_04;
+//pub mod advent_25_05;
+//pub mod advent_25_06;
+//pub mod advent_25_07;
+//pub mod advent_25_08;
+//pub mod advent_25_09;
+//pub mod advent_25_10;
+//pub mod advent_25_11;
+//pub mod advent_25_12;
+//pub mod advent_25_13;
+//pub mod advent_25_14;
+//pub mod advent_25_15;
+//pub mod advent_25_16;
+//pub mod advent_25_17;
+//pub mod advent_25_18;
+//pub mod advent_25_19;
+//pub mod advent_25_20;
+//pub mod advent_25_21;
+//pub mod advent_25_22;
+//pub mod advent_25_23;
+//pub mod advent_25_24;
+//pub mod advent_25_25;

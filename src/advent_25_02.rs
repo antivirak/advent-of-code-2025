@@ -3,6 +3,7 @@
 use crate::*;
 
 // https://adventofcode.com/2025/day/2
+// 00:58:02 / 01:29:30
 
 /*
 pub fn main_1() -> u64 {

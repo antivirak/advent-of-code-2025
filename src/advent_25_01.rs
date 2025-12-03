@@ -4,6 +4,7 @@
 use crate::*;
 
 // https://adventofcode.com/2025/day/1
+// 01:00:32 / 03:07:29
 
 
 pub fn main_1() -> i32 {

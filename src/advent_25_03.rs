@@ -46,7 +46,7 @@ pub fn main_2() -> i64 {
             m_val_id = list::index(&batteries, *max_val);
 
             let difference = batteries_in_banks - threshold;
-            while m_val_id >= difference.try_into().unwrap() {
+            while m_val_id >= difference {
                 max_val = batteries[..(difference as usize)].iter().max().unwrap();
                 m_val_id = list::index(&batteries, *max_val);
             }

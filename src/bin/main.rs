@@ -9,6 +9,8 @@ fn main() {
     // println!("{:?}", advent_25_03::main_2());
     // println!("{:?}", advent_25_04::main_1());
     // println!("{:?}", advent_25_04::main_2());
-    println!("{:?}", advent_25_05::main_1());
-    println!("{:?}", advent_25_05::main_2());
+    // println!("{:?}", advent_25_05::main_1());
+    // println!("{:?}", advent_25_05::main_2());
+    println!("{:?}", advent_25_06::main_1());
+    println!("{:?}", advent_25_06::main_2());
 }
